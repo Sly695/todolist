@@ -1,0 +1,16 @@
+.search-input{
+    width: 70%;
+    border: none;
+    border-bottom: 1px solid #000;
+    outline: none;
+    height: 100%;
+    padding: 0px 0px 0px 10px;
+    background-color: transparent;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    color: green;
+}
+
+::placeholder{
+    color: green;
+}

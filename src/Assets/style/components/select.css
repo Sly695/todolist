@@ -1,0 +1,18 @@
+.select{
+    width: 20%;
+    height: 100%;
+    border: none;
+    border-bottom: 1px solid #000;
+    outline: none;
+    background-color: transparent;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    color: green;
+    padding-bottom: 5px;
+    position: relative;
+}
+
+.option{
+    font-size: 10px;
+    line-height: 10px;
+}
